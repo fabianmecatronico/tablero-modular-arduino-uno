@@ -1,0 +1,331 @@
+{
+  "tablero-principal": {
+    "local": "assets/images/tablero-principal.png",
+    "remote": "https://lh3.googleusercontent.com/d/1ApMxm6sMQEISLXC8mzj173TN9C0AH-4f",
+    "bytes": 2586306,
+    "contentType": "image/png",
+    "status": "descargada"
+  },
+  "arduino-uno": {
+    "local": "assets/images/arduino-uno.png",
+    "remote": "https://lh3.googleusercontent.com/d/1xRWzjq6V8wKlfCgYN57eF2qCFDkSh_aU",
+    "bytes": 1908742,
+    "contentType": "image/png",
+    "status": "descargada"
+  },
+  "protoboard": {
+    "local": "assets/images/protoboard.png",
+    "remote": "https://lh3.googleusercontent.com/d/1apSlHPoiy6i-bXHmflRUkuh-7yGPbL4J",
+    "bytes": 1807542,
+    "contentType": "image/png",
+    "status": "descargada"
+  },
+  "joystick": {
+    "local": "assets/images/joystick.png",
+    "remote": "https://lh3.googleusercontent.com/d/17lSGiWeawxTR2xaqQffrh3igNgYICqHL",
+    "bytes": 24479,
+    "contentType": "image/png",
+    "status": "descargada"
+  },
+  "rele-1-canal": {
+    "local": "assets/images/rele-1-canal.jpg",
+    "remote": "https://lh3.googleusercontent.com/d/10awNypVhyTk2jbll_rbt0LuoLSmAkxyg",
+    "bytes": 58365,
+    "contentType": "image/jpeg",
+    "status": "descargada"
+  },
+  "oled-128x64": {
+    "local": "assets/images/oled-128x64.jpg",
+    "remote": "https://lh3.googleusercontent.com/d/1XW-SUlu4ZQTBAwD6C2kRIlpf-iQVFkUh",
+    "bytes": 23788,
+    "contentType": "image/jpeg",
+    "status": "descargada"
+  },
+  "hc-sr04": {
+    "local": "assets/images/hc-sr04.jpg",
+    "remote": "https://lh3.googleusercontent.com/d/1vpLhgUI91WiBPbmWXUKlELUa9CTPN0uI",
+    "bytes": 211951,
+    "contentType": "image/jpeg",
+    "status": "descargada"
+  },
+  "ttp223b": {
+    "local": "assets/images/ttp223b.jpg",
+    "remote": "https://lh3.googleusercontent.com/d/1CHbk6GhFWdny59vK9rpDU1OcHm67tRoe",
+    "bytes": 59297,
+    "contentType": "image/jpeg",
+    "status": "descargada"
+  },
+  "sg90": {
+    "local": "assets/images/sg90.png",
+    "remote": "https://lh3.googleusercontent.com/d/1UHyn0Eosu7Bz2XtGAMSJXE42Jbg1iWw5",
+    "bytes": 71994,
+    "contentType": "image/png",
+    "status": "descargada"
+  },
+  "max7219-8x8": {
+    "local": "assets/images/max7219-8x8.jpg",
+    "remote": "https://lh3.googleusercontent.com/d/14cHajM5H1Y29U3QR5dZz9n1ole1g6KBj",
+    "bytes": 23313,
+    "contentType": "image/jpeg",
+    "status": "descargada"
+  },
+  "dht11": {
+    "local": "assets/images/dht11.jpg",
+    "remote": "https://lh3.googleusercontent.com/d/1UwzRzKmY8orkZL42SmOTx_TTHQ2V8apA",
+    "bytes": 27960,
+    "contentType": "image/jpeg",
+    "status": "descargada"
+  },
+  "yl-69": {
+    "local": "assets/images/yl-69.jpg",
+    "remote": "https://lh3.googleusercontent.com/d/1ROQdsxLL-dk3drBD2ob96J2ZewlOvLp5",
+    "bytes": 22930,
+    "contentType": "image/jpeg",
+    "status": "descargada"
+  },
+  "lcd-16x2-i2c": {
+    "local": "assets/images/lcd-16x2-i2c.png",
+    "remote": "https://lh3.googleusercontent.com/d/1mIFpTTCfvuj7wuPejsxYhRVnKVDSWe-L",
+    "bytes": 1348394,
+    "contentType": "image/png",
+    "status": "descargada"
+  },
+  "ky-005": {
+    "local": "assets/images/ky-005.png",
+    "remote": "https://lh3.googleusercontent.com/d/1D8mGGSgQEDGIJ1hWVuJWFOPCH8H1F7gr",
+    "bytes": 65153,
+    "contentType": "image/png",
+    "status": "descargada"
+  },
+  "hc-06": {
+    "local": "assets/images/hc-06.png",
+    "remote": "https://lh3.googleusercontent.com/d/187WzYE2x0qS3Ad5r222u1nBSl4Wke-9n",
+    "bytes": 1135247,
+    "contentType": "image/png",
+    "status": "descargada"
+  },
+  "tcrt5000": {
+    "local": "assets/images/tcrt5000.png",
+    "remote": "https://lh3.googleusercontent.com/d/1aLflX89-bj2zerN4pfyGw9Key5irc4uq",
+    "bytes": 268011,
+    "contentType": "image/png",
+    "status": "descargada"
+  },
+  "ky-037": {
+    "local": "assets/images/ky-037.jpg",
+    "remote": "https://lh3.googleusercontent.com/d/1Lpk9Q9aaN4frhDxoOJLkxyWZEYMWEVHM",
+    "bytes": 38806,
+    "contentType": "image/jpeg",
+    "status": "descargada"
+  },
+  "ky-038": {
+    "local": "assets/images/ky-038.jpg",
+    "remote": "https://lh3.googleusercontent.com/d/1RIpDOsnYlggYZxPwqYpCahGzyU3gPXRu",
+    "bytes": 26901,
+    "contentType": "image/jpeg",
+    "status": "descargada"
+  },
+  "ky-032": {
+    "local": "assets/images/ky-032.png",
+    "remote": "https://lh3.googleusercontent.com/d/1axc4V2gPZrpqZjCzIl88S5WylfWS1sm2",
+    "bytes": 999331,
+    "contentType": "image/png",
+    "status": "descargada"
+  },
+  "ky-026": {
+    "local": "assets/images/ky-026.jpg",
+    "remote": "https://lh3.googleusercontent.com/d/1QcUZKe1JL9vqqFUjEpcay7RkQqL9rYmz",
+    "bytes": 35170,
+    "contentType": "image/jpeg",
+    "status": "descargada"
+  },
+  "ky-016": {
+    "local": "assets/images/ky-016.jpg",
+    "remote": "https://lh3.googleusercontent.com/d/1y1LGm4ZhcU4zMEDDO-hAo98DfzSaMpq8",
+    "bytes": 19716,
+    "contentType": "image/jpeg",
+    "status": "descargada"
+  },
+  "ky-024": {
+    "local": "assets/images/ky-024.jpg",
+    "remote": "https://lh3.googleusercontent.com/d/1mXaf643uGD_cVHpTE50zOLFRWFgPoz2d",
+    "bytes": 45854,
+    "contentType": "image/jpeg",
+    "status": "descargada"
+  },
+  "ky-036": {
+    "local": "assets/images/ky-036.jpg",
+    "remote": "https://lh3.googleusercontent.com/d/1ufdMV5rie_ORuI9juGQlSzuXl4zmgyIH",
+    "bytes": 31752,
+    "contentType": "image/jpeg",
+    "status": "descargada"
+  },
+  "ky-028": {
+    "local": "assets/images/ky-028.png",
+    "remote": "https://lh3.googleusercontent.com/d/1q2SQBi1IgAVM3B8xbWYFZZeUCVjD5E4R",
+    "bytes": 146516,
+    "contentType": "image/png",
+    "status": "descargada"
+  },
+  "ky-012": {
+    "local": "assets/images/ky-012.jpg",
+    "remote": "https://lh3.googleusercontent.com/d/1iGgbaxKmDRFNOcIbblRv2MF7AW8rDBwW",
+    "bytes": 33116,
+    "contentType": "image/jpeg",
+    "status": "descargada"
+  },
+  "ky-006": {
+    "local": "assets/images/ky-006.jpg",
+    "remote": "https://lh3.googleusercontent.com/d/1St9HAZL406q36LVDAkhD786SnPVOZVYo",
+    "bytes": 26263,
+    "contentType": "image/jpeg",
+    "status": "descargada"
+  },
+  "ky-009": {
+    "local": "assets/images/ky-009.png",
+    "remote": "https://lh3.googleusercontent.com/d/12wFGcH2iRIeB_Gte3O_k0Vh2c2ep7O0q",
+    "bytes": 764008,
+    "contentType": "image/png",
+    "status": "descargada"
+  },
+  "ky-011": {
+    "local": "assets/images/ky-011.jpg",
+    "remote": "https://lh3.googleusercontent.com/d/1aTg6axlKnFaQsZc2fvNOKWcFu7OSQwi-",
+    "bytes": 23552,
+    "contentType": "image/jpeg",
+    "status": "descargada"
+  },
+  "ky-029": {
+    "local": "assets/images/ky-029.jpg",
+    "remote": "https://lh3.googleusercontent.com/d/1ab82m8QevlzAOFRG5LmxAaeKqWMp1evZ",
+    "bytes": 30748,
+    "contentType": "image/jpeg",
+    "status": "descargada"
+  },
+  "ky-025": {
+    "local": "assets/images/ky-025.jpg",
+    "remote": "https://lh3.googleusercontent.com/d/1oS7wVAaWmtT3nYNsMGjb1cFWO2eMNRar",
+    "bytes": 25327,
+    "contentType": "image/jpeg",
+    "status": "descargada"
+  },
+  "ky-021": {
+    "local": "assets/images/ky-021.jpg",
+    "remote": "https://lh3.googleusercontent.com/d/1_6og1Q29p-eoibRRmyOD5_g0oDH3ia0B",
+    "bytes": 22565,
+    "contentType": "image/jpeg",
+    "status": "descargada"
+  },
+  "ky-039": {
+    "local": "assets/images/ky-039.jpg",
+    "remote": "https://lh3.googleusercontent.com/d/17tAQ3rTdHbSqY1PMowuhOK1K6buDJOyV",
+    "bytes": 17980,
+    "contentType": "image/jpeg",
+    "status": "descargada"
+  },
+  "ky-034": {
+    "local": "assets/images/ky-034.jpg",
+    "remote": "https://lh3.googleusercontent.com/d/1poJcDbTFIcJgByq0ZhsB1Mh0sZypAeEq",
+    "bytes": 20042,
+    "contentType": "image/jpeg",
+    "status": "descargada"
+  },
+  "ky-008": {
+    "local": "assets/images/ky-008.jpg",
+    "remote": "https://lh3.googleusercontent.com/d/1w4nWe1szVBYjRcKk1SwQIbTvL3YnFT0c",
+    "bytes": 22331,
+    "contentType": "image/jpeg",
+    "status": "descargada"
+  },
+  "ky-004": {
+    "local": "assets/images/ky-004.jpg",
+    "remote": "https://lh3.googleusercontent.com/d/1MO_RSoYQZlJgmVodOYs2yDaQrGoBx5jl",
+    "bytes": 21463,
+    "contentType": "image/jpeg",
+    "status": "descargada"
+  },
+  "ky-031": {
+    "local": "assets/images/ky-031.png",
+    "remote": "https://lh3.googleusercontent.com/d/1J-fRirOhX5swEvZ3YLh_LtEq7KiS0Z8V",
+    "bytes": 11654,
+    "contentType": "image/png",
+    "status": "descargada"
+  },
+  "ky-040": {
+    "local": "assets/images/ky-040.jpg",
+    "remote": "https://lh3.googleusercontent.com/d/1v3O_aG5S6pSoD8NJrtIWJQf6KHdLBYFq",
+    "bytes": 29259,
+    "contentType": "image/jpeg",
+    "status": "descargada"
+  },
+  "ky-027": {
+    "local": "assets/images/ky-027.jpg",
+    "remote": "https://lh3.googleusercontent.com/d/1k9FpHX1u2b24jW7eswovfokQ_F82Roz4",
+    "bytes": 22280,
+    "contentType": "image/jpeg",
+    "status": "descargada"
+  },
+  "ky-017": {
+    "local": "assets/images/ky-017.jpg",
+    "remote": "https://lh3.googleusercontent.com/d/1VfWQ9iVTafl-SbpjZhRwAmjz8DC7nn5U",
+    "bytes": 27261,
+    "contentType": "image/jpeg",
+    "status": "descargada"
+  },
+  "ky-020": {
+    "local": "assets/images/ky-020.jpg",
+    "remote": "https://lh3.googleusercontent.com/d/1i7_FDzHmz1XcfnRIzFaJ0p9RpdnNAshH",
+    "bytes": 107947,
+    "contentType": "image/jpeg",
+    "status": "descargada"
+  },
+  "ky-018": {
+    "local": "assets/images/ky-018.jpg",
+    "remote": "https://lh3.googleusercontent.com/d/1yUi-1Xz1Jeqm86DLiSzGaxPO2lmqMBIw",
+    "bytes": 21189,
+    "contentType": "image/jpeg",
+    "status": "descargada"
+  },
+  "ky-035": {
+    "local": "assets/images/ky-035.jpg",
+    "remote": "https://lh3.googleusercontent.com/d/1h8GDAuwwrgXM2voMSYu8YtLqmtmHvhch",
+    "bytes": 54766,
+    "contentType": "image/jpeg",
+    "status": "descargada"
+  },
+  "ky-003": {
+    "local": "assets/images/ky-003.jpg",
+    "remote": "https://lh3.googleusercontent.com/d/1FTeUkghqABVj0eXbgxfIzcF2Wp6K7ZDt",
+    "bytes": 35841,
+    "contentType": "image/jpeg",
+    "status": "descargada"
+  },
+  "ky-001": {
+    "local": "assets/images/ky-001.jpg",
+    "remote": "https://lh3.googleusercontent.com/d/1ZFBRLQWfGHA1ZfMJt7L7uohFseZpOOHY",
+    "bytes": 23858,
+    "contentType": "image/jpeg",
+    "status": "descargada"
+  },
+  "ky-013": {
+    "local": "assets/images/ky-013.jpg",
+    "remote": "https://lh3.googleusercontent.com/d/1u6hs8GpKK70WOEoZY41PXn7Mx4u3RpDL",
+    "bytes": 35114,
+    "contentType": "image/jpeg",
+    "status": "descargada"
+  },
+  "ky-022": {
+    "local": "assets/images/ky-022.jpg",
+    "remote": "https://lh3.googleusercontent.com/d/1vku8_ryl_UMA_nRBLZRtdSwwALgMDF7Z",
+    "bytes": 30907,
+    "contentType": "image/jpeg",
+    "status": "descargada"
+  },
+  "ky-010": {
+    "local": "assets/images/ky-010.jpg",
+    "remote": "https://lh3.googleusercontent.com/d/1aiVZtGEV6FUGeoduo7JxWHe5Rq5UKs9R",
+    "bytes": 25537,
+    "contentType": "image/jpeg",
+    "status": "descargada"
+  }
+}

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">Tablero Modular Arduino</title>
+  <rect width="512" height="512" rx="112" fill="#0a6847"/>
+  <rect x="92" y="126" width="328" height="260" rx="42" fill="#f5f7f5"/>
+  <g fill="none" stroke="#0a6847" stroke-width="22" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M138 198h78v72h-78zM296 198h78v72h-78zM148 326h216"/>
+    <path d="M54 194h38m328 0h38M54 318h38m328 0h38" stroke="#d9f3e7"/>
+  </g>
+  <circle cx="177" cy="234" r="13" fill="#e4a11b"/>
+  <circle cx="335" cy="234" r="13" fill="#e4a11b"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-labelledby="title desc">
+  <title id="title">Imagen pendiente</title><desc id="desc">Espacio reservado para una imagen de módulo.</desc>
+  <rect width="800" height="500" fill="#edf3ef"/>
+  <rect x="170" y="90" width="460" height="320" rx="30" fill="none" stroke="#0a6847" stroke-width="12" stroke-dasharray="24 18"/>
+  <text x="400" y="245" text-anchor="middle" font-family="Arial,sans-serif" font-size="42" fill="#0a6847">IMAGEN</text>
+  <text x="400" y="300" text-anchor="middle" font-family="Arial,sans-serif" font-size="28" fill="#5d6c64">[PENDIENTE]</text>
+</svg>
