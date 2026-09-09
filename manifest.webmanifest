@@ -1,0 +1,32 @@
+{
+  "name": "Tablero Modular Arduino",
+  "short_name": "Tablero Arduino",
+  "description": "Plataforma educativa para explorar módulos, construir proyectos y documentar procesos de solución con Arduino.",
+  "lang": "es",
+  "start_url": "./index.html#/inicio",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f5f7f5",
+  "theme_color": "#0a6847",
+  "categories": ["education", "utilities"],
+  "icons": [
+    {
+      "src": "assets/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icons/maskable.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {"name": "Explorar módulos", "url": "./index.html#/modulos", "icons": [{"src": "assets/icons/icon.svg", "sizes": "any", "type": "image/svg+xml"}]},
+    {"name": "Construir proyecto", "url": "./index.html#/constructor", "icons": [{"src": "assets/icons/icon.svg", "sizes": "any", "type": "image/svg+xml"}]},
+    {"name": "Bitácora", "url": "./index.html#/bitacora", "icons": [{"src": "assets/icons/icon.svg", "sizes": "any", "type": "image/svg+xml"}]}
+  ]
+}
