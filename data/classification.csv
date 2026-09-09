@@ -1,0 +1,47 @@
+﻿id,nombre,categorías,señal,dificultad,voltaje,estado_código,licencia_imagen
+arduino-uno,Arduino UNO,CONTROLADOR,"Analógico, digital, PWM, I2C y serial",Principiante,5V / 3.3V,por_validar,POR VERIFICAR
+protoboard,Protoboard,PROTOBOARD / CONEXIÓN,Conexión,Principiante,Depende del circuito,por_validar,POR VERIFICAR
+joystick,Joystick,ENTRADA ANALÓGICA | ENTRADA DIGITAL,Analógico (ejemplo: A0),Intermedio,[POR VALIDAR],por_validar,POR VERIFICAR
+rele-1-canal,Módulo relé de 1 canal 5 V,ACTUADOR | SALIDA DIGITAL,Digital,Avanzado,5V (control),revisado,POR VERIFICAR
+oled-128x64,Display OLED 128×64 I2C,VISUALIZACIÓN | I2C,I2C,Intermedio,[POR VALIDAR],por_validar,POR VERIFICAR
+hc-sr04,Sensor ultrasónico HC-SR04,ENTRADA DIGITAL,Digital por pulsos,Principiante,5V,por_validar,POR VERIFICAR
+ttp223b,Sensor táctil capacitivo TTP223B,ENTRADA DIGITAL,Digital,Principiante,5V o 3.3V indicado,revisado,POR VERIFICAR
+sg90,Servomotor SG90,ACTUADOR | SALIDA PWM,Control por pulsos,Intermedio,5V indicado,revisado,POR VERIFICAR
+max7219-8x8,Matriz LED 8×8 MAX7219,VISUALIZACIÓN | SALIDA DIGITAL,Digital síncrono,Intermedio,5V,revisado,POR VERIFICAR
+dht11,Sensor de temperatura y humedad DHT11,ENTRADA DIGITAL,Digital,Intermedio,5V o 3.3V indicado,revisado,POR VERIFICAR
+yl-69,Sensor de humedad de suelo YL-69,ENTRADA HÍBRIDA AO/DO | ENTRADA ANALÓGICA | ENTRADA DIGITAL,Analógico y digital,Intermedio,5V,por_validar,POR VERIFICAR
+lcd-16x2-i2c,LCD 16×2 I2C,VISUALIZACIÓN | I2C,I2C,Intermedio,5V,por_validar,POR VERIFICAR
+ky-005,Emisor infrarrojo KY-005,COMUNICACIÓN | SALIDA DIGITAL,Infrarrojo digital,Intermedio,5V,por_validar,POR VERIFICAR
+hc-06,Módulo Bluetooth HC-06,COMUNICACIÓN | UART / SERIAL,Serial UART,Intermedio,5V (VCC); RXD ~3.3V indicado,revisado,POR VERIFICAR
+tcrt5000,Sensor infrarrojo TCRT5000 serie MH,ENTRADA HÍBRIDA AO/DO | ENTRADA ANALÓGICA | ENTRADA DIGITAL,Analógico y digital,Intermedio,5V,revisado,POR VERIFICAR
+ky-037,Sensor de sonido KY-037,ENTRADA HÍBRIDA AO/DO | ENTRADA ANALÓGICA | ENTRADA DIGITAL,Analógico y digital,Intermedio,3.3–5V indicado,revisado,POR VERIFICAR
+ky-038,Sensor de sonido KY-038,ENTRADA HÍBRIDA AO/DO | ENTRADA ANALÓGICA | ENTRADA DIGITAL,Analógico y digital,Intermedio,5V,revisado,POR VERIFICAR
+ky-032,Sensor de evitación de obstáculos KY-032,ENTRADA DIGITAL,Digital infrarrojo,Intermedio,5V,por_validar,POR VERIFICAR
+ky-026,Sensor de llama KY-026,ENTRADA HÍBRIDA AO/DO | ENTRADA DIGITAL,Digital usado; AO pendiente,Intermedio,5V,revisado,POR VERIFICAR
+ky-016,LED RGB KY-016,ACTUADOR | SALIDA DIGITAL | SALIDA PWM,Digital / PWM,Principiante,5V indicado,por_validar,POR VERIFICAR
+ky-024,Sensor Hall lineal KY-024,ENTRADA HÍBRIDA AO/DO | ENTRADA ANALÓGICA,Analógico usado; DO pendiente,Intermedio,5V,revisado,POR VERIFICAR
+ky-036,Sensor táctil KY-036,ENTRADA HÍBRIDA AO/DO | ENTRADA DIGITAL,Digital usado; AO pendiente,Intermedio,5V,por_validar,POR VERIFICAR
+ky-028,Sensor de temperatura KY-028,ENTRADA HÍBRIDA AO/DO | ENTRADA DIGITAL,Digital usado; AO disponible,Intermedio,5V,revisado,POR VERIFICAR
+ky-012,Zumbador activo KY-012,ACTUADOR | SALIDA DIGITAL,Digital,Principiante,5V,revisado,POR VERIFICAR
+ky-006,Zumbador pasivo KY-006,ACTUADOR | SALIDA PWM,Frecuencia / PWM,Principiante,5V,revisado,POR VERIFICAR
+ky-009,LED RGB SMD KY-009,ACTUADOR | SALIDA DIGITAL | SALIDA PWM,Digital / PWM,Principiante,5V indicado,por_validar,POR VERIFICAR
+ky-011,LED bicolor KY-011,ACTUADOR | SALIDA DIGITAL,Digital,Principiante,5V indicado,revisado,POR VERIFICAR
+ky-029,LED mini bicolor KY-029,ACTUADOR | SALIDA DIGITAL,Digital,Principiante,5V indicado,revisado,POR VERIFICAR
+ky-025,Interruptor magnético KY-025,ENTRADA HÍBRIDA AO/DO | ENTRADA DIGITAL,Digital usado; AO pendiente,Intermedio,5V,revisado,POR VERIFICAR
+ky-021,Miniinterruptor magnético KY-021,ENTRADA DIGITAL,Digital,Principiante,Con INPUT_PULLUP,revisado,POR VERIFICAR
+ky-039,Sensor de ritmo cardíaco KY-039,ENTRADA ANALÓGICA,Analógico,Avanzado,5V,por_validar,POR VERIFICAR
+ky-034,LED de cambio de color KY-034,ACTUADOR | SALIDA DIGITAL,Digital,Principiante,5V,revisado,POR VERIFICAR
+ky-008,Emisor láser KY-008,ACTUADOR | SALIDA DIGITAL,Digital,Intermedio,5V,revisado,POR VERIFICAR
+ky-004,Botón KY-004,ENTRADA DIGITAL,Digital,Principiante,5V indicado,revisado,POR VERIFICAR
+ky-031,Sensor de impacto KY-031,ENTRADA DIGITAL,Digital,Principiante,5V,revisado,POR VERIFICAR
+ky-040,Encoder rotativo KY-040,ENTRADA DIGITAL,Digital,Intermedio,5V,revisado,POR VERIFICAR
+ky-027,Módulo de sensor de luz KY-027,ENTRADA DIGITAL | ACTUADOR,Digital indicado; versión por validar,Intermedio,5V,por_validar,POR VERIFICAR
+ky-017,Interruptor de inclinación KY-017,ENTRADA DIGITAL,Digital,Intermedio,5V indicado,revisado,POR VERIFICAR
+ky-020,Interruptor de bola KY-020,ENTRADA DIGITAL,Digital,Principiante,5V indicado,revisado,POR VERIFICAR
+ky-018,Fotoresistencia KY-018,ENTRADA ANALÓGICA,Analógico,Principiante,5V,revisado,POR VERIFICAR
+ky-035,Sensor Hall analógico KY-035,ENTRADA ANALÓGICA,Analógico,Intermedio,5V,revisado,POR VERIFICAR
+ky-003,Sensor Hall digital KY-003,ENTRADA DIGITAL,Digital,Principiante,5V,revisado,POR VERIFICAR
+ky-001,Sensor de temperatura KY-001,ENTRADA DIGITAL,Digital OneWire,Intermedio,5V,revisado,POR VERIFICAR
+ky-013,Sensor de temperatura analógico KY-013,ENTRADA ANALÓGICA,Analógico,Intermedio,5V,revisado,POR VERIFICAR
+ky-022,Receptor infrarrojo KY-022,ENTRADA DIGITAL | COMUNICACIÓN,Infrarrojo digital,Intermedio,5V,por_validar,POR VERIFICAR
+ky-010,Fotointerruptor KY-010,ENTRADA DIGITAL,Digital infrarrojo,Principiante,5V,revisado,POR VERIFICAR
